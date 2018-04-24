@@ -1,0 +1,9 @@
+c:\users\barri\documents\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\bin\Debug\Proj9PizzaDelivery.exe.config
+c:\users\barri\documents\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.csprojResolveAssemblyReference.cache
+c:\users\barri\documents\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.Form1.resources
+c:\users\barri\documents\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.Properties.Resources.resources
+c:\users\barri\documents\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.csproj.GenerateResource.Cache
+c:\users\barri\documents\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\bin\Debug\Proj9PizzaDelivery.exe
+c:\users\barri\documents\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\bin\Debug\Proj9PizzaDelivery.pdb
+c:\users\barri\documents\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.exe
+c:\users\barri\documents\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.pdb
